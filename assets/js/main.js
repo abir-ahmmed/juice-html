@@ -29,4 +29,3 @@ const linkAction = () =>{
 }
 navLink.forEach(n => n.addEventListener('click', linkAction))
 
-/*=============== GSAP ANIMATION ===============*/
